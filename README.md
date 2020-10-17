@@ -8,7 +8,7 @@ SEO stands for Seach Engine Optimization. It is when search engines such as Goog
 
 [Google's guide to best SEO Practices](https://support.google.com/webmasters/answer/7451184?hl=en)
 
-## 📝 HTML Modification
+## HTML Modification
 
 We modified some semantic HTML elements to help with both SEO and accessibility metrics. 
 The customizations followed were based of best practice standards on the article linked below.
