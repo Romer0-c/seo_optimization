@@ -18,16 +18,8 @@ The customizations followed were based of best practice standards on the article
 ## Assets
 
 The following site: 
-[Deployment environment](https://www.w3schools.com/html/html_accessibility.asp)
+[Deployment environment](https://romer0-c.github.io/seo_optimization/)
 
-![The following link shows an example of the sites overall layout](./Images/01-selector-complete.png)
+![The following link shows an example of the sites overall layout](assets/01-html-css-git-homework-demo.png)
 
----
-
-## 💡 Hints
-
-* How can you target a file type by its file extension (i.e., `.css`, `.html`, `.md`, etc.)?
-
-* How can you use pseudo-elements to accomplish this task?
-
-
+--
